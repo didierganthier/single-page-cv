@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 10px 25%;
+    padding: 40px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid black;
+    font-size: 13px;
+}
+
+h1 {
+    color: #333;
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+h2 {
+    color: green;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.subtitle {
+    color: rgb(53, 118, 197);
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.intro ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul {
+    padding: 0px 20px;
+}
+
+hr {
+    border: 0;
+    height: 1.5px;
+    background-color: black;
+    margin-right: 100px;
+}
