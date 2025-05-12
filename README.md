@@ -4,7 +4,10 @@ A sleek and responsive single-page CV (resume) website built using HTML abd CSS.
 
 ## 🔗 Live Demo
 
-[Project URL](https://single-page-cv-liart.vercel.app/)
+[Website URL](https://single-page-cv-liart.vercel.app/)
+
+## PROJECT URL
+https://roadmap.sh/projects/single-page-cv
 
 ## 🛠️ Built With
 
